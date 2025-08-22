@@ -1,0 +1,6 @@
+nom_str=input("entrer votre nom:")
+age_int=input("entrer votre age:")
+taille_float=input("entrer votre taille:")
+print("nom:",nom_str)
+print("age:",age_int)
+print("taille:",taille_float)

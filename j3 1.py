@@ -1,0 +1,10 @@
+nombre={1,2,3,4,5}
+lettres=set("abcdefg")
+ensemble1={1,2,3,4}
+ensemble2={3,4,5,6}
+union=ensemble1|ensemble2
+intersection=ensemble1&ensemble2
+difference=ensemble1-ensemble2
+print(union)
+print(intersection)
+print(difference)
